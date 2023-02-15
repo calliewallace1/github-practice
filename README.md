@@ -1,2 +1,2 @@
-# github-practice
+# Practice Github Repository 
  practice for class 
